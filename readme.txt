@@ -1,0 +1,1 @@
+This is a music classifier project that distinguishes between "metal" and "classical" music genres. It is implemented in Python using "scikit-learn" machine learning package.The project details are explained in the accompanying PowerPoint presentation file. 
